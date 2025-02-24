@@ -1,0 +1,23 @@
+.channels
+{
+    width: 100%;
+    padding: 30px 2%;
+    background-color: #060707;
+    display: flex;
+    column-gap: 10px;
+    height: 170px;
+    
+    
+
+}
+
+.channels > img 
+{
+    border-radius: 5px;
+}
+.ch{
+    padding-left: 35px;
+    color: white;
+    background-color: #060707;
+   
+}
